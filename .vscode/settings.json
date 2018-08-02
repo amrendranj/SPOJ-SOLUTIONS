@@ -2,6 +2,14 @@
     "files.associations": {
         "iostream": "cpp",
         "*.tcc": "cpp",
-        "list": "cpp"
+        "list": "cpp",
+        "future": "cpp",
+        "functional": "cpp",
+        "ostream": "cpp",
+        "array": "cpp",
+        "bitset": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp",
+        "valarray": "cpp"
     }
 }
