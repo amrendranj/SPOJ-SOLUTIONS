@@ -2,6 +2,9 @@
 using namespace std;
 int A[1000000];
 int main(){
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    
     int t;
     cin>>t;
     while(t--){
